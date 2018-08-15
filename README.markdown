@@ -1,5 +1,3 @@
-Welcome to COSC2408 Programming Project 1 Robot Soccer git repository.
-
 The directory structure is:
 
 * **bin**:
